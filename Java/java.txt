@@ -1,0 +1,189 @@
+Module 1: Introduction
+
+Types of Programming language and Paradigms.
+Java – what, where and why?
+Platform independency
+Comparison in Java with C and C++
+Role of Java Programmer in Industry.
+Java Evolution and History
+Features of Java Language.
+The Java Virtual Machine (JVM) – The heart of Java.
+Java’s Magic Byte code
+JDK , JRE and JIT
+-------------------------------------------------------------------------
+Module 2: Language Fundamentals or Grammar of Java
+
+The Java Environment:
+Installing Java in WINDOWS and LINUX
+Java Program Development in different environment
+Java Source File Structure
+Introduction to VI, notepad, edit plus editor and Net beans, Eclipse IDE.
+Compilation and Executions procedure using different editor and IDE.
+Reference parameters, Output parameters.
+Access specifiers and its requirement in java.
+Naming conventions
+-----------------------------------------------------------------------------
+Module 3: Reserve / Keywords present in Java
+
+Lexical Tokens, Identifiers
+------------------------------------------------------------------------------
+Module 4: Primitive Data types and Block in java
+
+Data types
+int , char , float , double , Boolean , short , long , byte
+UNICODE system
+Value type, Reference type
+Types and Scope of variables
+Static variables, Instance variable, Local variables, final variable, transient variable, volatile variable
+Static block and Non-static block
+Static,non-static,final,abstract, native and synchronized
+Communicate java application with other language using java native interface
+-----------------------------------------------------------------------------------------
+Module 5: Java Operators
+
+Arithmetic operators
+Relational operators
+Logical operators
+Shift operators
+Assignment Operators
+Unary operator
+Bitwise operators
+Special operators
+Ternary operator
+Instanceof operator and typecasting.
+------------------------------------------------------------------------------------------------
+Module 6:Wrapper Class
+
+Integer
+Character
+Float
+Double
+Boolean
+Short
+Long
+Type conversions
+Implicit conversion, Explicit conversion
+-----------------------------------------------------------------------------------------------
+Module 7: Decision making and branching PROGRAMMING WITH JAVA
+
+If statement
+If….Else statement and if….else ladder
+Nested if
+Multiple if
+Switch... case statement
+Conditional operator vs. if statement
+Break and continue in java
+------------------------------------------------------------------------------------------------
+Module 8: Decision making and looping
+
+While
+Do
+For
+For each
+-----------------------------------------------------------------------------------------------
+Module 9: Object Oriented Programmingt
+
+Class Fundamentals
+Object & Object reference
+Life time of object & Garbage Collection
+Creating with Operating reference and Objects
+Constructor & initialization code block
+Access Control, Modifiers, methods
+Nested, Inner Class & Anonymous Classes
+Abstract Class & Interfaces
+Defining Methods, Argument Passing Mechanism
+Method Overloading, Recursion
+Dealing with Static Members. Finalize () Method
+Native Method
+Use of “this“ reference
+Use of Modifiers with Classes & Methods
+Design of Accessors and Mutator Methods
+Cloning Objects, shallow and deep cloning
+Generic Class Types
+----------------------------------------------------------------------------------------------
+Module 10: Extending Classes and Inheritance
+
+Aggregation (HAS-A) and its uses.
+Use and Benefits of Inheritance (IS-A) over aggregation in OOP
+Types of Inheritance in Java
+Role of Constructors in inheritance
+Polymorphism in OOP.
+Overriding Super Class Methods.
+Use of “super” keyword.
+Restriction in case of method overriding.
+Type Compatibility and Conversion
+Implementing interfaces.
+Dynamic method dispatching by down-casting and up-casting
+-----------------------------------------------------------------------------------------------
+Module 11: Package
+
+Package as Access Protection
+Defining Package.
+Advantage of package
+Sub-Package
+CLASSPATH Setting for Packages.
+Making JAR Files for Library Packages
+Import and Static Import
+Creating .EXE and jar executable file.
+-----------------------------------------------------------------------------------------------
+Module 12: Exception Handling
+
+The Idea behind Exception
+Exceptions & Errors
+Types of Exception
+Checked and Un-Checked Exceptions
+Control Flow in Exceptions
+Use of try and catch block
+Multiple catch block
+Nested try
+finally block
+throw keyword
+Exception Propagation
+throws keyword
+Exception Handling with Method Overriding
+In-built and User Defined Exceptions
+Exception handling rule in case of method overriding
+How to handle unreachable statements using finally
+----------------------------------------------------------------------------------------------
+Module 13: Event Handling
+
+Defining an Array
+Single–Dimensional Array
+Initializing & Accessing Array
+Multi –Dimensional Array
+Jagged Array
+Arrays class
+Methods in Arrays class
+Sorting the elements of Array
+Searching, insert, delete dynamically
+Matrix multiplication, addition, transpose, upper triangular, lower triangular, sparse matrix
+String – what and why
+Operation on String
+Immutable String
+String comparison and concatenation
+Method of String class
+StringBuffer class and its methods
+StringBuilder class in java
+Creating Immutable class like String
+Using Collection Bases Loop for String
+Tokenizing a String
+Object comparisons using Comparator and comparable interface
+-----------------------------------------------------------------------------------------
+Module 14: Dancing and Singing together “Multithreading “In Java
+
+Understanding Threads and process
+Multithreading – what and why
+Creating Thread
+Thread Life-Cycle
+Thread Priorities
+Daemon thread
+Performing multiple job by multiple Thread
+Runnable class
+Synchronizing Threads – what and why
+Synchronized method
+Synchronized block
+Inter Communication of Threads
+Producer & Consumer problem without balancing
+Producer & Consumer problem with balancing using wait() & notify().
+
+----------------------------------------------------------------------------------------
